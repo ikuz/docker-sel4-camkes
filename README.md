@@ -60,4 +60,3 @@ Afterwards, launching the OS via `qemu` can be done by
 
 For further details please refer to [the seL4 website](http://sel4.systems).
 
-
